@@ -35,4 +35,4 @@ Contributions to NotesSaver are welcome! Feel free to submit bug reports, featur
 
 ## Contact
 
-For any inquiries or support, please contact [neeleshrana22@example.com](mailto:neeleshrana22@example.com).
+For any inquiries or support, please contact [neeleshrana22@example.com](mailto:neeleshrana22@gmail.com).
